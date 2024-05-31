@@ -1,2 +1,2 @@
 # ui-test-app
-Testing add
+Testing app
